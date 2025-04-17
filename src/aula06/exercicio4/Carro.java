@@ -58,7 +58,7 @@ public class Carro {
 				System.out.println("Velocidade atual do carro: "+ velocidade);
 			}
 		} else {
-			System.out.println("Carro precisa estar ligado para frear");
+			System.out.println("Carro precisa estar ligado para frear.");
 		}
 	}
 	
