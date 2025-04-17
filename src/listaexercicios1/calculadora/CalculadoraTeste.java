@@ -9,7 +9,7 @@ public class CalculadoraTeste {
         calculadora.tipo = "Científica";
         calculadora.memoriaInterna = 500;
 
-        System.out.println("Detalhes da Calculadora:");
+        System.out.println("Detalhes da Terra:");
         System.out.println("Marca: " + calculadora.marca);
         System.out.println("Modelo: " + calculadora.modelo);
         System.out.println("Tipo: " + calculadora.tipo);
