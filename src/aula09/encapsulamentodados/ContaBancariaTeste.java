@@ -17,5 +17,11 @@ public class ContaBancariaTeste {
 		System.out.println(conta1.getNomeTitular());
 		System.out.println(conta1.getSaldo());
 		conta1.imprimirSaldo();
+
+
+        System.out.println(conta1.getNumeroConta());
+        System.out.println(conta1.getNomeTitular());
+        System.out.println(conta1.getSaldo());
+        conta1.imprimirSaldo();
 	}
 }
